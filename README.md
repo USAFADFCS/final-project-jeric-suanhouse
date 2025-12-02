@@ -156,3 +156,8 @@ Ryan R (rrabinow@uccs.edu)
 Austin W (austin.w@ardentinc.com)
 Eli G (elijah.g@ardentinc.com)
 Chad M (Chad.Mello@afacademy.af.edu)
+
+## ReadMe for our project
+Edit the prompt in the await command to run other prompts.
+It takes around 7 minutes to output
+Sometimes it messes up and does not play the wav file. If that happens there is a folder containing all the individual wav files.
